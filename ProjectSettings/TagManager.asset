@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ladder
+  - Flower
+  - Jellyfish
+  - Moss
+  - Stone
+  - CPController
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Camera
+  - Water
+  - UI
+  - Ground
+  - Stone
+  - Item
+  - Plant
+  - Post
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: BackgroundBack
+    uniqueID: 257635865
+    locked: 0
+  - name: Background
+    uniqueID: 1053798469
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Foreground
+    uniqueID: 3463504377
+    locked: 0
+  - name: UI
+    uniqueID: 177613317
+    locked: 0
+  - name: ForegroundFront
+    uniqueID: 2088620225
+    locked: 0
